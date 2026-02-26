@@ -1,4 +1,4 @@
- venv/
+venv/
 *.log
 *.pot
 *.pyc
